@@ -95,7 +95,7 @@ cp .env.example .env
 
 # Required:
 # - PROVENANCE_SIGNING_KEY: Generate with `openssl rand -hex 32`
-# - CREDEXAI_API_KEY: From https://credexai.live/dashboard
+# - CREDEX_API_KEY: From https://credexai.live/dashboard
 
 # Optional:
 # - OPENAI_API_KEY: For LLM-powered content generation
